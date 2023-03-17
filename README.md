@@ -2,8 +2,7 @@
 
 ### Description of projects
 
-##Sliding Gate App with Cost Calculator:
-
+## Sliding Gate App with Cost Calculator:
 <p>This application was created in python using PyQt5, QT Designer, reportlab and openpyxl libraries.<p/>
 
 ## Calculation of Garage Door Construction Materials & Cuts:
