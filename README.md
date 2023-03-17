@@ -10,7 +10,7 @@ This application was created in python language using tkinder, reportlab and ope
 
 ![client tab](https://user-images.githubusercontent.com/37002036/225872751-66b2f08a-c201-4349-99cf-787f29b3b1b2.png)
 
-<p align="justify">This is an application that keeps the customer's information and creates a folder where you create a pdf file so that it can be forwarded to the door manufacturer. Within this program, the user provides information such as the net length and opening width of the door, the type of door the user wishes to be built, the paint color of the panels, etc.
+<p align="justify">This is an application that keeps the customer's information and creates a folder where you create a pdf file so that it can be forwarded to the door manufacturer. Within this program, the user provides information such as the net length and opening width of the door, the type of door the user wishes to be built, the paint color of the panels, etc. <p/>
 
 ![pdf pic 1](https://user-images.githubusercontent.com/37002036/225872895-716a4fe4-bd3d-44b8-927e-5ddc8b881d43.png)
 
