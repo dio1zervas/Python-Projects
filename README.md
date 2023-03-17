@@ -2,7 +2,7 @@
 
 ### Description of projects
 
-## Υπολογισμός Υλικών & Κοπών Κατασκευής Γκαραζόπορτας:
+## Calculation of Garage Door Construction Materials & Cuts:
 <p>This application was created in python using tkinder, reportlab and openpyxl libraries.<p/>
 
 ![general items tab](https://user-images.githubusercontent.com/37002036/225872642-d3d6365d-fb24-4b80-8369-d9b2ca2c2e2b.png)
