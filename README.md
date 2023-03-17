@@ -11,9 +11,9 @@
 
 ![client tab](https://user-images.githubusercontent.com/37002036/225872751-66b2f08a-c201-4349-99cf-787f29b3b1b2.png)
 
-![pdf pic 1](https://user-images.githubusercontent.com/37002036/225872895-716a4fe4-bd3d-44b8-927e-5ddc8b881d43.png)
-
 <p align="justify">Finally, the pdf file that is created shows the complete details of the customer as well as tables that divide the materials and the data we entered into categories, mechanical drawings with the type of door we have chosen and with the subscription of the Google Maps API a map appears with the address of the customer so that in the future the technician who will install the door will be facilitated in his movement to the customer.<p/>
+
+![pdf pic 1](https://user-images.githubusercontent.com/37002036/225872895-716a4fe4-bd3d-44b8-927e-5ddc8b881d43.png)
 
 ![pdf pic 2](https://user-images.githubusercontent.com/37002036/225872954-811eb0e3-6106-4a52-8988-4f1c666df29b.png)
 
