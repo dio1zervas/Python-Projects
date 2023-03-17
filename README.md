@@ -2,12 +2,15 @@
 
 ### Description of projects
 
+##Sliding Gate App with Cost Calculator:
+<p>This application was created in python using PyQt5, QT Designer, reportlab and openpyxl libraries.<p/>
+
 ## Calculation of Garage Door Construction Materials & Cuts:
 <p>This application was created in python using tkinder, reportlab and openpyxl libraries.<p/>
 
 ![general items tab](https://user-images.githubusercontent.com/37002036/225872642-d3d6365d-fb24-4b80-8369-d9b2ca2c2e2b.png)
 
-<p align="justify">This is an application that keeps the customer's information and creates a folder where you create a pdf file so that it can be forwarded to the door manufacturer. Within this program, the user provides information such as the net length and opening width of the door, the type of door the user wishes to be built, the paint color of the panels, etc. <p/>
+<p align="justify">This is an application that keeps the customer's information and creates a folder where a pdf file is created so that it can be forwarded to the door manufacturer. Within this program, the user provides information such as the net length and opening width of the door, the type of door the user wishes to be built, the paint color of the panels, etc. <p/>
 
 ![client tab](https://user-images.githubusercontent.com/37002036/225872751-66b2f08a-c201-4349-99cf-787f29b3b1b2.png)
 
